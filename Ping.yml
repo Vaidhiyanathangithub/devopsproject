@@ -1,0 +1,6 @@
+---
+  - name:
+    hosts: master
+    tasks:
+      - name:
+        ping:

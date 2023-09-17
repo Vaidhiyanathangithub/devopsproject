@@ -1,0 +1,6 @@
++-------------------------------------------+
+   System Status Details
++-------------------------------------------+
+Overall Status: Current
+
+System Purpose Status: Not Specified
