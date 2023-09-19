@@ -1,0 +1,7 @@
+---
+ - name: ping
+   hosts: master
+   become: no
+   tasks:
+     -  name: pinging
+        ping:
